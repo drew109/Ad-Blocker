@@ -1,0 +1,16 @@
+{
+    "name": "Neon's Adblocker",
+    "version": "1.0",
+    "description": "bork",
+    "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"],
+    "background": {
+        "scripts": ["background.js"]
+    },
+    "icons": {
+        "16": "icons/Hnet.com-image.png",
+        "48": "icons/Hnet.com-image (1).png",
+        "128": "icons/Hnet.com-image (2).png"
+
+    },
+    "manifest_version": 2
+}
